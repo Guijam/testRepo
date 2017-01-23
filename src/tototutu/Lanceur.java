@@ -6,5 +6,4 @@ public class Lanceur {
 		// TODO Auto-generated method stub
 			System.out.println("HZEIUHAZLBH APIE?OGFEBVO? I");
 	}
-
 }
